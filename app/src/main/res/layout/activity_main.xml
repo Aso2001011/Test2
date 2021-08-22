@@ -16,4 +16,12 @@
         android:textColor="#CCBDBD"
         tools:layout_editor_absoluteX="36dp"
         tools:layout_editor_absoluteY="98dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="はじめる"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="295dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
